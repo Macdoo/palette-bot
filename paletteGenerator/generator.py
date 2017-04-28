@@ -1,4 +1,3 @@
-# Author: John WIllcox-Beney, 2017
 from colour import Color
 from PIL import Image, ImageDraw, ImageFont
 import random
